@@ -1,0 +1,14 @@
+.input-wrapper {
+  display: flex;
+  flex-flow: column;
+  max-width: 100px;
+}
+
+input {
+  margin: 20px auto;
+}
+
+.slider-price {
+  display: flex;
+  justify-content: space-evenly;
+}

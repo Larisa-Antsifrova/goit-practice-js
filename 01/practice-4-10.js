@@ -8,7 +8,7 @@
 // або "Ви програли, компютер загадав (тут варіант компютера)"
 
 // const userNumber = prompt(
-//   "Try to guess the computer's mind! Enter the number from 1 to 0"
+//   "Try to guess the computer's mind! Enter the number from 1 to 10"
 // );
 // const computerNumber = Math.floor(Math.random() * 10 + 1);
 
@@ -16,10 +16,10 @@
 // console.log(typeof computerNumber);
 
 // if (userNumber === null) {
-//   console.log("Okay! See you next time!");
+//   console.log('Okay! See you next time!');
 // } else {
 //   if (userNumber < 1 || userNumber > 10 || isNaN(userNumber)) {
-//     console.log("Check your number! You should enter a number from 1 to 10.");
+//     console.log('Check your number! You should enter a number from 1 to 10.');
 //   } else if (+userNumber === computerNumber) {
 //     console.log(`Congrats! You've guessed the number ${computerNumber}`);
 //   } else {
