@@ -9,5 +9,10 @@
 - 05 - 
 - 07 -
 
+## Workshops
+
+- 01 - 
+- 02 - 
+
 ## Additional tasks for practice
 https://github.com/AleksaHrevtsova/bc-24-js
