@@ -1,0 +1,11 @@
+{{#each this}}
+<li>
+  <video src="{{video_files[0].link}}"></video>
+  <ul>
+    <h3>Previews</h3>
+    {{#each video_pictures}}
+    <li><img src="{{this.picture}}" alt="preview"></li>
+    {{/each}}
+  </ul>
+</li>
+{{/each}}
